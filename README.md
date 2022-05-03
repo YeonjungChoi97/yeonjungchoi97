@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Yeonjung (Yeon) Choi.
+
+I am ? at ?.
+I study ?!
+
 <!--
 **YeonjungChoi97/yeonjungchoi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
